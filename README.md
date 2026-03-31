@@ -1,4 +1,3 @@
-## Hi there 👋
 # Elias Asbrede
 
 I build practical products at the intersection of AI, privacy, enterprise software, and blockchain.
@@ -66,7 +65,7 @@ Current MVP scope includes:
 ## Connect
 
 - LinkedIn: linkedin.com/in/elias-asbrede
-- Blackline repo: eliasasbrede/Blackline
+- Blackline repo: [eliasasbrede/Blackline](https://github.com/eliasasbrede/Blackline.git)
 
 <!--
 **eliasasbrede/eliasasbrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
