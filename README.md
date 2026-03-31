@@ -64,7 +64,7 @@ Current MVP scope includes:
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/elias-asbrede
+- LinkedIn: www.linkedin.com/in/elias-asbrede
 - Blackline repo: [eliasasbrede/Blackline](https://github.com/eliasasbrede/Blackline.git)
 
 <!--
